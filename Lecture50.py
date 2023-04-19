@@ -12,4 +12,3 @@ def MultipyFunction(x,y):
 def DivideFunction(x,y):
     print(x/y)
 
-MinusFunction(x,y)
